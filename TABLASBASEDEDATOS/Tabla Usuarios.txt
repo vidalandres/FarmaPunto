@@ -1,0 +1,11 @@
+CREATE TABLE [dbo].[TablaUsuarios] (
+    [Identificacion] BIGINT       NOT NULL,
+    [Nombre]         VARCHAR (50) NOT NULL,
+    [Apellidos]      VARCHAR (50) NOT NULL,
+    [NombreUsuario]  VARCHAR (50) NOT NULL,
+    [Contraseña]     VARCHAR (50) NOT NULL,
+    [TipoDeUsuario]  VARCHAR (50) NOT NULL,
+    [Salario]        DECIMAL (18) NOT NULL,
+    [Celular]        VARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Identificacion] ASC)
+);

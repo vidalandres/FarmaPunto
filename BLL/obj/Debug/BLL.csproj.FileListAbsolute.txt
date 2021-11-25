@@ -1,0 +1,120 @@
+H:\FarmaPunto(copia)\BLL\bin\Debug\BLL.dll
+H:\FarmaPunto(copia)\BLL\bin\Debug\BLL.pdb
+H:\FarmaPunto(copia)\BLL\bin\Debug\DAL.dll
+H:\FarmaPunto(copia)\BLL\bin\Debug\Entity.dll
+H:\FarmaPunto(copia)\BLL\bin\Debug\DAL.pdb
+H:\FarmaPunto(copia)\BLL\bin\Debug\Entity.pdb
+H:\FarmaPunto(copia)\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+H:\FarmaPunto(copia)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\FarmaPunto(copia)\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\FarmaPunto(copia)\BLL\obj\Debug\BLL.dll
+H:\FarmaPunto(copia)\BLL\obj\Debug\BLL.pdb
+H:\FarmaPunto(copia)\BLL\bin\Debug\DatosProyecto.mdf
+H:\FarmaPunto(copia)\BLL\bin\Debug\DatosProyecto_log.ldf
+E:\FarmaPunto(copia)\BLL\bin\Debug\DatosEnclase.mdf
+E:\FarmaPunto(copia)\BLL\bin\Debug\DatosEnclase_log.ldf
+E:\FarmaPunto(copia)\BLL\bin\Debug\DatosProyecto.mdf
+E:\FarmaPunto(copia)\BLL\bin\Debug\DatosProyecto_log.ldf
+E:\FarmaPunto(copia)\BLL\bin\Debug\BLL.dll
+E:\FarmaPunto(copia)\BLL\bin\Debug\BLL.pdb
+E:\FarmaPunto(copia)\BLL\bin\Debug\DAL.dll
+E:\FarmaPunto(copia)\BLL\bin\Debug\Entity.dll
+E:\FarmaPunto(copia)\BLL\bin\Debug\DAL.pdb
+E:\FarmaPunto(copia)\BLL\bin\Debug\Entity.pdb
+E:\FarmaPunto(copia)\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\FarmaPunto(copia)\BLL\obj\Debug\BLL.dll
+E:\FarmaPunto(copia)\BLL\obj\Debug\BLL.pdb
+H:\FarmaPunto(copia)\BLL\bin\Debug\DAL.dll.config
+F:\FarmaPunto(copia)\BLL\bin\Debug\DatosProyecto.mdf
+F:\FarmaPunto(copia)\BLL\bin\Debug\DatosProyecto_log.ldf
+F:\FarmaPunto(copia)\BLL\bin\Debug\BLL.dll
+F:\FarmaPunto(copia)\BLL\bin\Debug\BLL.pdb
+F:\FarmaPunto(copia)\BLL\bin\Debug\DAL.dll
+F:\FarmaPunto(copia)\BLL\bin\Debug\Entity.dll
+F:\FarmaPunto(copia)\BLL\bin\Debug\DAL.pdb
+F:\FarmaPunto(copia)\BLL\bin\Debug\DAL.dll.config
+F:\FarmaPunto(copia)\BLL\bin\Debug\Entity.pdb
+F:\FarmaPunto(copia)\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\FarmaPunto(copia)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\FarmaPunto(copia)\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\FarmaPunto(copia)\BLL\obj\Debug\BLL.dll
+F:\FarmaPunto(copia)\BLL\obj\Debug\BLL.pdb
+G:\FarmaPunto(copia)\BLL\bin\Debug\DatosProyecto.mdf
+G:\FarmaPunto(copia)\BLL\bin\Debug\DatosProyecto_log.ldf
+G:\FarmaPunto(copia)\BLL\bin\Debug\BLL.dll
+G:\FarmaPunto(copia)\BLL\bin\Debug\BLL.pdb
+G:\FarmaPunto(copia)\BLL\bin\Debug\DAL.dll
+G:\FarmaPunto(copia)\BLL\bin\Debug\Entity.dll
+G:\FarmaPunto(copia)\BLL\bin\Debug\DAL.pdb
+G:\FarmaPunto(copia)\BLL\bin\Debug\Entity.pdb
+G:\FarmaPunto(copia)\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\FarmaPunto(copia)\BLL\obj\Debug\BLL.dll
+G:\FarmaPunto(copia)\BLL\obj\Debug\BLL.pdb
+F:\FarmaPunto(copia)\BLL\bin\Debug\XD.mdf
+F:\FarmaPunto(copia)\BLL\bin\Debug\XD_log.ldf
+H:\FarmaPunto(copia)\BLL\bin\Debug\XD.mdf
+H:\FarmaPunto(copia)\BLL\bin\Debug\XD_log.ldf
+D:\FarmaPunto(copia)\BLL\bin\Debug\DatosProyecto.mdf
+D:\FarmaPunto(copia)\BLL\bin\Debug\DatosProyecto_log.ldf
+D:\FarmaPunto(copia)\BLL\bin\Debug\XD.mdf
+D:\FarmaPunto(copia)\BLL\bin\Debug\XD_log.ldf
+D:\FarmaPunto(copia)\BLL\bin\Debug\BLL.dll
+D:\FarmaPunto(copia)\BLL\bin\Debug\BLL.pdb
+D:\FarmaPunto(copia)\BLL\bin\Debug\DAL.dll
+D:\FarmaPunto(copia)\BLL\bin\Debug\Entity.dll
+D:\FarmaPunto(copia)\BLL\bin\Debug\DAL.pdb
+D:\FarmaPunto(copia)\BLL\bin\Debug\DAL.dll.config
+D:\FarmaPunto(copia)\BLL\bin\Debug\Entity.pdb
+D:\FarmaPunto(copia)\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\FarmaPunto(copia)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\FarmaPunto(copia)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\FarmaPunto(copia)\BLL\obj\Debug\BLL.dll
+D:\FarmaPunto(copia)\BLL\obj\Debug\BLL.pdb
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\bin\Debug\DatosProyecto.mdf
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\bin\Debug\DatosProyecto_log.ldf
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\bin\Debug\XD.mdf
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\bin\Debug\XD_log.ldf
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\bin\Debug\BLL.dll
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\bin\Debug\BLL.pdb
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\bin\Debug\DAL.dll
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\bin\Debug\Entity.dll
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\bin\Debug\DAL.pdb
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\bin\Debug\DAL.dll.config
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\bin\Debug\Entity.pdb
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\obj\Debug\BLL.dll
+C:\Users\Andres\Desktop\FarmaPunto(copia)\BLL\obj\Debug\BLL.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\bin\Debug\DatosProyecto.mdf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\bin\Debug\DatosProyecto_log.ldf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\bin\Debug\XD.mdf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\bin\Debug\XD_log.ldf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\bin\Debug\BLL.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\bin\Debug\BLL.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\bin\Debug\DAL.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\bin\Debug\Entity.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\bin\Debug\DAL.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\bin\Debug\DAL.dll.config
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\bin\Debug\Entity.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\obj\Debug\BLL.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\BLL\obj\Debug\BLL.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\bin\Debug\DatosProyecto.mdf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\bin\Debug\DatosProyecto_log.ldf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\bin\Debug\XD.mdf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\bin\Debug\XD_log.ldf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\bin\Debug\BLL.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\bin\Debug\BLL.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\bin\Debug\DAL.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\bin\Debug\Entity.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\bin\Debug\DAL.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\bin\Debug\DAL.dll.config
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\bin\Debug\Entity.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\obj\Debug\BLL.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\obj\Debug\BLL.pdb

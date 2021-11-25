@@ -1,0 +1,9 @@
+CREATE TABLE [dbo].[TablaFactura] (
+    [CodigoFactura] VARCHAR (50) NOT NULL,
+    [Codigo]        VARCHAR (50) NOT NULL,
+    [Producto]      VARCHAR (50) NOT NULL,
+    [Unidades]      INT          NOT NULL,
+    [Iva]           DECIMAL (18) NOT NULL,
+    [TotalParcial]  DECIMAL (18) NOT NULL,
+    [Fecha]         DATE         NOT NULL
+);

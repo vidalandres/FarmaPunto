@@ -1,0 +1,107 @@
+H:\FarmaPunto(copia)\DAL\bin\Debug\DAL.dll
+H:\FarmaPunto(copia)\DAL\bin\Debug\DAL.pdb
+H:\FarmaPunto(copia)\DAL\bin\Debug\Entity.dll
+H:\FarmaPunto(copia)\DAL\bin\Debug\Entity.pdb
+H:\FarmaPunto(copia)\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+H:\FarmaPunto(copia)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+H:\FarmaPunto(copia)\DAL\obj\Debug\DAL.csproj.CopyComplete
+H:\FarmaPunto(copia)\DAL\obj\Debug\DAL.dll
+H:\FarmaPunto(copia)\DAL\obj\Debug\DAL.pdb
+H:\FarmaPunto(copia)\DAL\bin\Debug\DatosProyecto.mdf
+H:\FarmaPunto(copia)\DAL\bin\Debug\DatosProyecto_log.ldf
+E:\FarmaPunto(copia)\DAL\bin\Debug\DatosEnclase.mdf
+E:\FarmaPunto(copia)\DAL\bin\Debug\DatosEnclase_log.ldf
+E:\FarmaPunto(copia)\DAL\bin\Debug\DatosProyecto.mdf
+E:\FarmaPunto(copia)\DAL\bin\Debug\DatosProyecto_log.ldf
+E:\FarmaPunto(copia)\DAL\bin\Debug\DAL.dll
+E:\FarmaPunto(copia)\DAL\bin\Debug\DAL.pdb
+E:\FarmaPunto(copia)\DAL\bin\Debug\Entity.dll
+E:\FarmaPunto(copia)\DAL\bin\Debug\Entity.pdb
+E:\FarmaPunto(copia)\DAL\obj\Debug\DAL.dll
+E:\FarmaPunto(copia)\DAL\obj\Debug\DAL.pdb
+E:\FarmaPunto(copia)\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\FarmaPunto(copia)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\FarmaPunto(copia)\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\FarmaPunto(copia)\DAL\bin\Debug\DatosProyecto.mdf
+F:\FarmaPunto(copia)\DAL\bin\Debug\DatosProyecto_log.ldf
+F:\FarmaPunto(copia)\DAL\bin\Debug\DAL.dll
+F:\FarmaPunto(copia)\DAL\bin\Debug\DAL.pdb
+F:\FarmaPunto(copia)\DAL\bin\Debug\Entity.dll
+F:\FarmaPunto(copia)\DAL\bin\Debug\Entity.pdb
+F:\FarmaPunto(copia)\DAL\obj\Debug\DAL.dll
+F:\FarmaPunto(copia)\DAL\obj\Debug\DAL.pdb
+H:\FarmaPunto(copia)\DAL\bin\Debug\DAL.dll.config
+F:\FarmaPunto(copia)\DAL\bin\Debug\DAL.dll.config
+F:\FarmaPunto(copia)\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\FarmaPunto(copia)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\FarmaPunto(copia)\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\FarmaPunto(copia)\DAL\bin\Debug\DatosProyecto.mdf
+G:\FarmaPunto(copia)\DAL\bin\Debug\DatosProyecto_log.ldf
+G:\FarmaPunto(copia)\DAL\bin\Debug\DAL.dll.config
+G:\FarmaPunto(copia)\DAL\bin\Debug\DAL.dll
+G:\FarmaPunto(copia)\DAL\bin\Debug\DAL.pdb
+G:\FarmaPunto(copia)\DAL\bin\Debug\Entity.dll
+G:\FarmaPunto(copia)\DAL\bin\Debug\Entity.pdb
+G:\FarmaPunto(copia)\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\FarmaPunto(copia)\DAL\obj\Debug\DAL.dll
+G:\FarmaPunto(copia)\DAL\obj\Debug\DAL.pdb
+F:\FarmaPunto(copia)\DAL\bin\Debug\XD.mdf
+F:\FarmaPunto(copia)\DAL\bin\Debug\XD_log.ldf
+H:\FarmaPunto(copia)\DAL\bin\Debug\XD.mdf
+H:\FarmaPunto(copia)\DAL\bin\Debug\XD_log.ldf
+D:\FarmaPunto(copia)\DAL\bin\Debug\DatosProyecto.mdf
+D:\FarmaPunto(copia)\DAL\bin\Debug\DatosProyecto_log.ldf
+D:\FarmaPunto(copia)\DAL\bin\Debug\XD.mdf
+D:\FarmaPunto(copia)\DAL\bin\Debug\XD_log.ldf
+D:\FarmaPunto(copia)\DAL\bin\Debug\DAL.dll.config
+D:\FarmaPunto(copia)\DAL\bin\Debug\DAL.dll
+D:\FarmaPunto(copia)\DAL\bin\Debug\DAL.pdb
+D:\FarmaPunto(copia)\DAL\bin\Debug\Entity.dll
+D:\FarmaPunto(copia)\DAL\bin\Debug\Entity.pdb
+D:\FarmaPunto(copia)\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\FarmaPunto(copia)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\FarmaPunto(copia)\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\FarmaPunto(copia)\DAL\obj\Debug\DAL.dll
+D:\FarmaPunto(copia)\DAL\obj\Debug\DAL.pdb
+C:\Users\Andres\Desktop\FarmaPunto(copia)\DAL\bin\Debug\DatosProyecto.mdf
+C:\Users\Andres\Desktop\FarmaPunto(copia)\DAL\bin\Debug\DatosProyecto_log.ldf
+C:\Users\Andres\Desktop\FarmaPunto(copia)\DAL\bin\Debug\XD.mdf
+C:\Users\Andres\Desktop\FarmaPunto(copia)\DAL\bin\Debug\XD_log.ldf
+C:\Users\Andres\Desktop\FarmaPunto(copia)\DAL\bin\Debug\DAL.dll.config
+C:\Users\Andres\Desktop\FarmaPunto(copia)\DAL\bin\Debug\DAL.dll
+C:\Users\Andres\Desktop\FarmaPunto(copia)\DAL\bin\Debug\DAL.pdb
+C:\Users\Andres\Desktop\FarmaPunto(copia)\DAL\bin\Debug\Entity.dll
+C:\Users\Andres\Desktop\FarmaPunto(copia)\DAL\bin\Debug\Entity.pdb
+C:\Users\Andres\Desktop\FarmaPunto(copia)\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Andres\Desktop\FarmaPunto(copia)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\FarmaPunto(copia)\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Andres\Desktop\FarmaPunto(copia)\DAL\obj\Debug\DAL.dll
+C:\Users\Andres\Desktop\FarmaPunto(copia)\DAL\obj\Debug\DAL.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\DAL\bin\Debug\DatosProyecto.mdf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\DAL\bin\Debug\DatosProyecto_log.ldf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\DAL\bin\Debug\XD.mdf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\DAL\bin\Debug\XD_log.ldf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\DAL\bin\Debug\DAL.dll.config
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\DAL\bin\Debug\DAL.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\DAL\bin\Debug\DAL.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\DAL\bin\Debug\Entity.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\DAL\bin\Debug\Entity.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\DAL\obj\Debug\DAL.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto-copia--master\FarmaPunto-copia--master\DAL\obj\Debug\DAL.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\bin\Debug\DatosProyecto.mdf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\bin\Debug\DatosProyecto_log.ldf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\bin\Debug\XD.mdf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\bin\Debug\XD_log.ldf
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\bin\Debug\DAL.dll.config
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\bin\Debug\DAL.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\bin\Debug\DAL.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\bin\Debug\Entity.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\bin\Debug\Entity.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\obj\Debug\DAL.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\obj\Debug\DAL.pdb
