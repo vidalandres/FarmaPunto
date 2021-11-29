@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Entity;
 using DAL;
 using System.Data.SqlClient;
+using System.IO;
 
 namespace BLL
 {
@@ -16,7 +17,9 @@ namespace BLL
         RepositoryMedicamento repositoryMedicamento;
         public MedicamentosService()
         {
-            Conexion = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\FarmaPunto(copia)\DAL\DatosProyecto.mdf;Integrated Security=True");
+            var loc = Directory.GetCurrentDirectory();
+            //Conexion = new SqlConnection($@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename={Environment.CurrentDirectory}\DatosProyecto.mdf;Integrated Security=True");
+            Conexion = new SqlConnection($@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\DatosProyecto.mdf;Integrated Security=True");
             repositoryMedicamento = new RepositoryMedicamento(Conexion);
         }
 

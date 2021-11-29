@@ -105,3 +105,18 @@ C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer c
 C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\obj\Debug\DAL.dll
 C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\obj\Debug\DAL.pdb
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\bin\Debug\DatosProyecto.mdf
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\bin\Debug\DatosProyecto_log.ldf
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\bin\Debug\XD.mdf
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\bin\Debug\XD_log.ldf
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\bin\Debug\DAL.dll.config
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\bin\Debug\DAL.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\bin\Debug\DAL.pdb
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\bin\Debug\Entity.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\bin\Debug\Entity.pdb
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\obj\Debug\DAL.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\obj\Debug\DAL.pdb
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\bin\Debug\ArchivoContador.txt

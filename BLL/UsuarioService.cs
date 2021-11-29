@@ -18,7 +18,8 @@ namespace BLL
         RepositoryUsuario repositoryUsuario;
         public UsuarioService()
         {
-            Conexion = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\FarmaPunto(copia)\DAL\DatosProyecto.mdf;Integrated Security=True");
+
+            Conexion = new SqlConnection($@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\DatosProyecto.mdf;Integrated Security=True");
             repositoryUsuario = new RepositoryUsuario(Conexion);
         }
 

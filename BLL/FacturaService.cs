@@ -19,7 +19,7 @@ namespace BLL
 
         public FacturaService()
         {
-            Conexion = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\FarmaPunto(copia)\DAL\DatosProyecto.mdf;Integrated Security=True");
+            Conexion = new SqlConnection($@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\DatosProyecto.mdf;Integrated Security=True");
             repositoryFactura = new RepositoryFactura(Conexion);
             repositoryMedicamento = new RepositoryMedicamento(Conexion);
         }
@@ -38,6 +38,23 @@ namespace BLL
             }
             finally { Conexion.Close(); }
             return (ListaFacturas);
+        }
+
+        public IList<ProductoReporte> ConsultarReporte()
+        {
+            var Reportes = new List<ProductoReporte>();
+            Conexion.Open();
+            try
+            {
+                Reportes = new List<ProductoReporte>();
+                Reportes = repositoryFactura.Reporte().ToList();
+            }
+            catch (Exception e)
+            {
+
+            }
+            finally { Conexion.Close(); }
+            return Reportes;
         }
 
         public IList<Factura> ConsultarFacturacodigo(string codigo)
@@ -116,6 +133,9 @@ namespace BLL
             {
                 Conexion.Open();
                 repositoryFactura.GuardarFactura(factura);
+                Detalles.ForEach(
+                    x => repositoryFactura.GuardarDetalle(x)
+                );
                 Conexion.Close();
                 return "Se Registro La factura " + factura.CodigoFactura;
 

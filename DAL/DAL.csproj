@@ -93,6 +93,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ArchivoContador.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="DatosProyecto.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

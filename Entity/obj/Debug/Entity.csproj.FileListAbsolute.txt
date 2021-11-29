@@ -81,3 +81,13 @@ C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer c
 C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\Entity\obj\Debug\Entity.csproj.CopyComplete
 C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\Entity\obj\Debug\Entity.dll
 C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\Entity\obj\Debug\Entity.pdb
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\Entity\bin\Debug\Entity.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\Entity\bin\Debug\Entity.pdb
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\Entity\bin\Debug\MetroFramework.Design.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\Entity\bin\Debug\MetroFramework.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\Entity\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\Entity\obj\Debug\Entity.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\Entity\obj\Debug\Entity.pdb
