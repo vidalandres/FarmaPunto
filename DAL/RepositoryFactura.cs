@@ -17,7 +17,8 @@ namespace DAL
         private SqlDataReader Reader;
         private SqlCommand Comando;
         private IList<Factura> ListaFacturas;
-        string DIRECCIONARCHIVO = (@"E:\FarmaPunto(copia)\Archivo\ArchivoContador.txt");
+        string DIRECCIONARCHIVO = ($@"C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\Archivo\ArchivoContador.txt");
+
         public RepositoryFactura(SqlConnection connection)
         {
             Conexion = connection;
@@ -66,6 +67,19 @@ namespace DAL
             }
         }
 
+        public void GuardarDetalle(DetalleFactura detalle)
+        {
+            using (Comando = Conexion.CreateCommand())
+            {
+                Comando.CommandText = "insert into [dbo].[Table](Factura,Producto,Subtotal,Total) values (@CodigoFactura,@Producto,@Subtotal,@Total)";
+                Comando.Parameters.Add("@CodigoFactura", SqlDbType.VarChar).Value = detalle.IdeFactura;
+                Comando.Parameters.Add("@Producto", SqlDbType.VarChar).Value = detalle.IdeMedicamento;
+                Comando.Parameters.Add("@Subtotal", SqlDbType.Int).Value = detalle.ValorUnitario * detalle.Cantidad;
+                Comando.Parameters.Add("@Total", SqlDbType.Decimal).Value = detalle.ValorTotal;
+                Comando.ExecuteNonQuery();
+            }
+        }
+
         private Factura MapeoFactura(SqlDataReader reader)
         {
             Factura factura = new Factura();
@@ -78,6 +92,16 @@ namespace DAL
             DateTime dateTime = (DateTime)reader["Fecha"];
             factura.Fecha = dateTime.ToShortDateString();
             return factura;
+        }
+
+        private ProductoReporte MapeoReporte(SqlDataReader reader)
+        {
+            ProductoReporte reporte = new ProductoReporte();
+            reporte.Producto = (string)reader["Producto"];
+            reporte.Facturas = (int)reader["Facturas"];
+            reporte.Subtotal = Convert.ToDouble(reader["Subtotal"]);
+            reporte.Total = Convert.ToDouble(reader["Total"]);
+            return reporte;
         }
 
         public IList<Factura> ConsulatrFacturas()
@@ -96,6 +120,33 @@ namespace DAL
                 Reader.Close();
             }
             return ListaFacturas;
+        }
+
+        public IList<ProductoReporte> Reporte()
+        {
+            var Reportes = new List<ProductoReporte>();
+            using (var Comando = Conexion.CreateCommand())
+            {
+                StringBuilder sql = new StringBuilder();
+                sql.AppendLine("Select ");
+                sql.AppendLine("    Producto,");
+                sql.AppendLine("    COUNT(Factura) as Facturas,");
+                sql.AppendLine("    SUM(Subtotal) as Subtotal,");
+                sql.AppendLine("    SUM(Total) as Total");
+                sql.AppendLine("from [dbo].[Table] ");
+                sql.AppendLine("group by Producto ");
+                sql.AppendLine("order by Total desc ");
+
+                Comando.CommandText = sql.ToString();
+                Reader = Comando.ExecuteReader();
+                while (Reader.Read())
+                {
+                    var reporte = MapeoReporte(Reader);
+                    Reportes.Add(reporte);
+                }
+                Reader.Close();
+            }
+            return Reportes;
         }
 
 

@@ -118,3 +118,46 @@ C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer c
 C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\obj\Debug\BLL.dll
 C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\BLL\obj\Debug\BLL.pdb
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\DatosProyecto.mdf
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\DatosProyecto_log.ldf
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\XD.mdf
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\XD_log.ldf
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\BLL.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\BLL.pdb
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\DAL.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\Entity.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\DAL.pdb
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\DAL.dll.config
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\Entity.pdb
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\obj\Debug\BLL.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\obj\Debug\BLL.pdb
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\ArchivoContador.txt
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\Common.Logging.Core.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\Common.Logging.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.barcodes.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.forms.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.io.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.kernel.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.layout.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.pdfa.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.sign.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.styledxmlparser.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.svg.dll
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\Common.Logging.pdb
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\Common.Logging.xml
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\Common.Logging.Core.pdb
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\Common.Logging.Core.xml
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.barcodes.xml
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.forms.xml
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.io.xml
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.kernel.xml
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.layout.xml
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.pdfa.xml
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.sign.xml
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.styledxmlparser.xml
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\BLL\bin\Debug\itext.svg.xml

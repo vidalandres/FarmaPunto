@@ -18,7 +18,7 @@ namespace FarmaPunto
         CboxFlitro gestionDeFacturas = new CboxFlitro();
         UCGestionProveedores gestionProveedores = new UCGestionProveedores();
 
-        UCFacturacionAdministrador uCFacturacionA = new UCFacturacionAdministrador();
+        UCFacturacion uCFacturacionA = new UCFacturacion();
         UCDetallesDeProductos detallesDeProductos = new UCDetallesDeProductos();
 
         public FrmAdministrador()
@@ -38,16 +38,19 @@ namespace FarmaPunto
 
         public void MostrarControlA(UserControl control)
         {
-            if (!PnelEjecucion.Controls.Contains(control))
-            {
-                PnelEjecucion.Controls.Add(control);
-                control.Dock = DockStyle.Fill;
-                control.BringToFront();
-            }
-            else
-            {
-                control.BringToFront();
-            }
+            PnelEjecucion.Controls.Clear();
+            control.Dock = DockStyle.Fill;
+            PnelEjecucion.Controls.Add(control);
+            //if (!PnelEjecucion.Controls.Contains(control))
+            //{
+            //    PnelEjecucion.Controls.Add(control);
+            //    control.Dock = DockStyle.Fill;
+            //    control.BringToFront();
+            //}
+            //else
+            //{
+            //    control.BringToFront();
+            //}
         }
 
         public void CambiarColorA(Button button)
@@ -102,6 +105,8 @@ namespace FarmaPunto
 
         private void BtnGestiondeVentas_Click(object sender, EventArgs e)
         {
+
+            UCHistorialDeVentas historialDeVentas = new UCHistorialDeVentas();
             Mostraycambiar(historialDeVentas);
         }
 

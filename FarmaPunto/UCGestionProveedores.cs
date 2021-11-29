@@ -15,9 +15,12 @@ namespace FarmaPunto
     public partial class UCGestionProveedores : UserControl
     {
         ProveedorService servicios = new ProveedorService();
+        ReporteService repService = new ReporteService();
+
         public UCGestionProveedores()
         {
             InitializeComponent();
+            DtgTablaProveedores.DataSource = servicios.ConsultarProveedor();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -135,6 +138,14 @@ namespace FarmaPunto
             {
                 MessageBox.Show("No se encontro");
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var reporte = servicios.ConsultarProveedor();
+            var dialog = new SaveFileDialog();
+            dialog.ShowDialog();
+            repService.CrearPDF(dialog.FileName, "proveedores", reporte);
         }
     }
 }

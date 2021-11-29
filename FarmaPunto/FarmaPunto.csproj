@@ -129,17 +129,11 @@
     <Compile Include="UCDetallesDeProductos.Designer.cs">
       <DependentUpon>UCDetallesDeProductos.cs</DependentUpon>
     </Compile>
-    <Compile Include="UCFacturacionAdministrador.cs">
+    <Compile Include="UCFacturacion.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UCFacturacionAdministrador.Designer.cs">
-      <DependentUpon>UCFacturacionAdministrador.cs</DependentUpon>
-    </Compile>
-    <Compile Include="UCFacturacionFarmaceutico.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="UCFacturacionFarmaceutico.Designer.cs">
-      <DependentUpon>UCFacturacionFarmaceutico.cs</DependentUpon>
+    <Compile Include="UCFacturacion.Designer.cs">
+      <DependentUpon>UCFacturacion.cs</DependentUpon>
     </Compile>
     <Compile Include="UCGestionDeUsuarios.cs">
       <SubType>UserControl</SubType>
@@ -203,11 +197,8 @@
     <EmbeddedResource Include="UCDetallesDeProductos.resx">
       <DependentUpon>UCDetallesDeProductos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UCFacturacionAdministrador.resx">
-      <DependentUpon>UCFacturacionAdministrador.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="UCFacturacionFarmaceutico.resx">
-      <DependentUpon>UCFacturacionFarmaceutico.cs</DependentUpon>
+    <EmbeddedResource Include="UCFacturacion.resx">
+      <DependentUpon>UCFacturacion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UCGestionDeUsuarios.resx">
       <DependentUpon>UCGestionDeUsuarios.cs</DependentUpon>

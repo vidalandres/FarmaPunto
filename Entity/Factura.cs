@@ -33,4 +33,12 @@ namespace Entity
             this.Fecha = fecha;
         }
     } 
+
+    public class ProductoReporte
+    {
+        public string Producto { get; set; }
+        public int Facturas { get; set; }
+        public double Subtotal { get; set; }
+        public double Total { get; set; }
+    }
 }

@@ -12,7 +12,7 @@ namespace FarmaPunto
 {
     public partial class FrmFarmaceutico : MetroFramework.Forms.MetroForm
     {
-        UCFacturacionAdministrador uCFacturacionF = new UCFacturacionAdministrador();
+        UCFacturacion uCFacturacionF = new UCFacturacion();
         UCDetallesDeProductos detallesDeProductos = new UCDetallesDeProductos();
 
         public FrmFarmaceutico()
@@ -48,16 +48,20 @@ namespace FarmaPunto
         }
         public void MostrarControlF(UserControl control)
         {
-            if (!PnelEjecucion.Controls.Contains(control))
-            {
-                PnelEjecucion.Controls.Add(control);
-                control.Dock = DockStyle.Fill;
-                control.BringToFront();
-            }
-            else
-            {
-                control.BringToFront();
-            }
+
+            PnelEjecucion.Controls.Clear();
+            control.Dock = DockStyle.Fill;
+            PnelEjecucion.Controls.Add(control);
+            //if (!PnelEjecucion.Controls.Contains(control))
+            //{
+            //    PnelEjecucion.Controls.Add(control);
+            //    control.Dock = DockStyle.Fill;
+            //    control.BringToFront();
+            //}
+            //else
+            //{
+            //    control.BringToFront();
+            //}
         }
 
         public void CambiarColorF(Button button)

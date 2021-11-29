@@ -17,7 +17,10 @@ namespace FarmaPunto
         MedicamentosService servicios = new MedicamentosService();
         public frmLogin()
         {         
-            InitializeComponent();          
+            InitializeComponent();
+            this.Hide();
+            //MessageBox.Show("A Ingresado Como Administardor");
+            new FrmAdministrador().ShowDialog();
         }
 
         private void Form1_Load(object sender, EventArgs e)
