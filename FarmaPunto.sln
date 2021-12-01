@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{C66F8483-4D46-4E73-B3DF-F9D1BF8EE019}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{540DC747-AC9E-4B52-B80E-FC4386443401}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmaPunto.Test", "UnitTestProject1\FarmaPunto.Test.csproj", "{540DC747-AC9E-4B52-B80E-FC4386443401}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

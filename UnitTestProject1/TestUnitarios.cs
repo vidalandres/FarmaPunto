@@ -4,10 +4,10 @@ using Entity;
 using BLL;
 using System.Collections.Generic;
 
-namespace UnitTestProject1
+namespace FarmaPunto.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class TestUnitarios
     {
         //Escenario de factura correcta
         [TestMethod]
