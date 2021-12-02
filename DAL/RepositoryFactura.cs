@@ -17,7 +17,7 @@ namespace DAL
         private SqlDataReader Reader;
         private SqlCommand Comando;
         private IList<Factura> ListaFacturas;
-        string DIRECCIONARCHIVO = ($@"C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\Archivo\ArchivoContador.txt");
+        string DIRECCIONARCHIVO = ($@"C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\Archivo\ArchivoContador.txt");
 
         public RepositoryFactura(SqlConnection connection)
         {
