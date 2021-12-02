@@ -380,7 +380,6 @@ C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer c
 C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\obj\Debug\FarmaPunto.csproj.CopyComplete
 C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\obj\Debug\FarmaPunto.exe
 C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\obj\Debug\FarmaPunto.pdb
-C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\obj\Debug\FarmaPunto.UCFacturacionAdministrador.resources
 C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\DatosProyecto.mdf
 C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\DatosProyecto_log.ldf
 C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\XD.mdf
@@ -432,3 +431,18 @@ C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\FarmaPunto\bin\Debug\Common.Logging
 C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\FarmaPunto\bin\Debug\itext.io.xml
 C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\FarmaPunto\bin\Debug\Common.Logging.pdb
 C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\FarmaPunto\bin\Debug\Common.Logging.xml
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\ArchivoContador.txt
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\itext.kernel.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\itext.layout.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\Common.Logging.Core.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\itext.io.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\Common.Logging.dll
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\itext.kernel.xml
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\itext.layout.xml
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\Common.Logging.Core.xml
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\itext.io.xml
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\Common.Logging.pdb
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\FarmaPunto\bin\Debug\Common.Logging.xml

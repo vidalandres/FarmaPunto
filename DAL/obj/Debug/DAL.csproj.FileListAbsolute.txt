@@ -120,3 +120,4 @@ C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\obj\Debug\DAL.csproj.CopyComple
 C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\obj\Debug\DAL.dll
 C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\obj\Debug\DAL.pdb
 C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\bin\Debug\ArchivoContador.txt
+C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\bin\Debug\ArchivoContador.txt

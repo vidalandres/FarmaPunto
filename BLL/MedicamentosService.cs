@@ -18,8 +18,7 @@ namespace BLL
         public MedicamentosService()
         {
             var loc = Directory.GetCurrentDirectory();
-            //Conexion = new SqlConnection($@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename={Environment.CurrentDirectory}\DatosProyecto.mdf;Integrated Security=True");
-            Conexion = new SqlConnection($@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\DatosProyecto.mdf;Integrated Security=True");
+            Conexion = new SqlConnection($@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\DatosProyecto.mdf;Integrated Security=True");
             repositoryMedicamento = new RepositoryMedicamento(Conexion);
         }
 

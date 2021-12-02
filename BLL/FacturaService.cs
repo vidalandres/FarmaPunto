@@ -19,7 +19,7 @@ namespace BLL
 
         public FacturaService()
         {
-            Conexion = new SqlConnection($@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\DAL\DatosProyecto.mdf;Integrated Security=True");
+            Conexion = new SqlConnection($@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Vidal Armenta\Desktop\semestres\semestre 2021-2\ing software 2\primer corte\proyecto\FarmaPunto\DAL\DatosProyecto.mdf;Integrated Security=True");
             repositoryFactura = new RepositoryFactura(Conexion);
             repositoryMedicamento = new RepositoryMedicamento(Conexion);
         }
