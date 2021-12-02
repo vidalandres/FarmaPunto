@@ -432,3 +432,8 @@ C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\FarmaPunto\bin\Debug\Common.Logging
 C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\FarmaPunto\bin\Debug\itext.io.xml
 C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\FarmaPunto\bin\Debug\Common.Logging.pdb
 C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\FarmaPunto\bin\Debug\Common.Logging.xml
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\FarmaPunto\bin\Debug\ArchivoContador.txt
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\FarmaPunto\bin\Debug\DatosProyecto.mdf
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\FarmaPunto\bin\Debug\DatosProyecto_log.ldf
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\FarmaPunto\bin\Debug\XD.mdf
+C:\Users\bdmtnz\Documents\Desktop\FarmaPunto\FarmaPunto\bin\Debug\XD_log.ldf

@@ -18,9 +18,6 @@ namespace FarmaPunto
         public frmLogin()
         {         
             InitializeComponent();
-            this.Hide();
-            //MessageBox.Show("A Ingresado Como Administardor");
-            new FrmAdministrador().ShowDialog();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -35,8 +32,6 @@ namespace FarmaPunto
 
         private void BtnIniciarSesion_Click(object sender, EventArgs e)
         {
-
-
             if (TxtContraseña.Text.Equals("1992") && TxtNombreDeUsuario.Text.Equals("luis"))
             {
                 ControlarCampos();

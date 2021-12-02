@@ -94,7 +94,7 @@ namespace BLL
             Conexion.Open();
             Factura factura = new Factura();
             try
-            {   
+            {
                 factura.CodigoFactura = codigo;
                 factura = repositoryFactura.BuscarFactura(factura);
             }
@@ -103,6 +103,7 @@ namespace BLL
 
                 throw;
             }
+            finally { Conexion.Close(); }
           
             return factura;
         }
