@@ -120,6 +120,7 @@ namespace FarmaPunto
                 Producto = "A-101",
                 Unidades = 1,
                 TotalParcial = 1000
+                
             };
             List<DetalleFactura> oFacturados = Productos.Select(x => new DetalleFactura() 
             {
